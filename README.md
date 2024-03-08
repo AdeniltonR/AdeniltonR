@@ -1,4 +1,4 @@
-<img src="https://hackaday.com/wp-content/uploads/2017/09/oled-clock-headliner.gif?w=600">
+<img src="https://pymbook.readthedocs.io/en/latest/_images/cpx.gif" min-width="500px" max-width="500px" width="500px" align="right">
  
 - 👋 Olá, sou Adenilton Ribeiro
 - 👀 Estou interessado em desenvolvimento de Firmware e Layout em PCB
