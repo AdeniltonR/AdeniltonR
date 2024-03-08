@@ -1,6 +1,6 @@
 # 👋 Olá, sou Adenilton Ribeiro
 
-<img src="https://pymbook.readthedocs.io/en/latest/_images/cpx.gif" min-width="480px" max-width="480px" width="480px" align="right">
+<img src="https://art.pixilart.com/sr21df2b5d71d4e.gif" min-width="480px" max-width="480px" width="480px" align="right">
  
 - 👀 Estou interessado em desenvolvimento de Firmware e Layout em PCB
 - 📫 Como entrar em contato comigo:
