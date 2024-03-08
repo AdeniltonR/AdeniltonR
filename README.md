@@ -1,6 +1,9 @@
-
 ![Capa](https://media.licdn.com/dms/image/C4E16AQGGwl7LRtpnVw/profile-displaybackgroundimage-shrink_350_1400/0/1620505986519?e=1715212800&v=beta&t=UnqoRxX4150tKeP8jh1kPio1LacjK0dzKpBTRiytXbI)
 
+</p>
+<img src="https://i.gifer.com/Lj1v.gif" min-width="400px" max-width="400px" width="400px" align="right">
+<p align="left"> 
+  
 - 👋 Olá, sou Adenilton Ribeiro
 - 👀 Estou interessado em desenvolvimento de Firmware e Layout em PCB
 - 📫 Como entrar em contato comigo:
