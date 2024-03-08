@@ -1,5 +1,5 @@
-<img src="https://gifs.eco.br/wp-content/uploads/2022/09/gifs-de-tecnologia-19.gif" min-width="400px" max-width="400px" width="400px" align="right">
-  
+<img src="https://hackaday.com/wp-content/uploads/2017/09/oled-clock-headliner.gif?w=600">
+ 
 - 👋 Olá, sou Adenilton Ribeiro
 - 👀 Estou interessado em desenvolvimento de Firmware e Layout em PCB
 - 📫 Como entrar em contato comigo:
