@@ -1,7 +1,5 @@
 # 👋 Olá, sou Adenilton Ribeiro
 
-<img src="https://art.pixilart.com/sr21df2b5d71d4e.gif" min-width="400px" max-width="400px" width="400px" align="right">
- 
 - 👀 Estou interessado em desenvolvimento de Firmware e Layout em PCB
 - 📫 Como entrar em contato comigo:
 
@@ -13,3 +11,5 @@
   <a href="https://www.instagram.com/adenilton_ribeiro4" alt="Instagram">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/adenilton_ribeiro4/"/></a>
 </p>
+
+<img src="https://art.pixilart.com/sr21df2b5d71d4e.gif" min-width="400px" max-width="400px" width="400px" align="center">
