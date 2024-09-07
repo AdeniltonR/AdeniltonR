@@ -6,8 +6,9 @@
 <h1 align="center">
     <img width="50" src="https://simpleicons.vercel.app/github/FFFFFF" />
     <br>
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=20&center=true&vCenter=true&color=FFFFFF&width=300&height=40&duration=5000&lines=Olá%21+Eu+sou+Adenilton+Ribeiro%21;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=20&center=true&vCenter=true&color=FFFFFF&width=300&height=40&duration=5000&lines=Oi%2C+tudo+bem+%21;" />
 </h1>
+
 
 # 👋 Olá, sou Adenilton Ribeiro
 
