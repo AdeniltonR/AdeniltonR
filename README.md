@@ -60,22 +60,22 @@ Sou desenvolvedor especializado em **eletrônica, hardware, firmware, software e
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdeniltonR&theme=github-dark&hide_border=false&layout=compact"/>
 </p>
 
-## 📫 Como entrar em contato comigo
-
-<p align="left">
-  <a href="mailto:adeniltonribeiro.r4@gmail.com" alt="Gmail">
-    <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:adeniltonribeiro.r4@gmail.com"/>
-  </a>
-  <a href="https://www.linkedin.com/in/adenilton-ribeiro-92551b156" alt="LinkedIn">
-    <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/adenilton-ribeiro-92551b156/"/>
-  </a>
-  <a href="https://www.instagram.com/adenilton_ribeiro4" alt="Instagram">
-    <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/adenilton_ribeiro4/"/>
-  </a>
-</p>
-
 <p align="center">
   <img src="https://art.pixilart.com/sr21df2b5d71d4e.gif" width="400px" alt="Gif centralizado">
+</p>
+
+## 📫 Como entrar em contato comigo
+
+<p align="center">
+  <a href="mailto:adeniltonribeiro.r4@gmail.com" alt="Gmail">
+    <img height="40" src="https://img.shields.io/badge/Gmail-FF0000?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://www.linkedin.com/in/adenilton-ribeiro-92551b156" alt="LinkedIn">
+    <img height="40" src="https://img.shields.io/badge/LinkedIn-0e76a8?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://www.instagram.com/adenilton_ribeiro4" alt="Instagram">
+    <img height="40" src="https://img.shields.io/badge/Instagram-DF0174?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/>
+  </a>
 </p>
 
 <!-- Rodapé -->
