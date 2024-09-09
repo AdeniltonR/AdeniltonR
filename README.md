@@ -68,13 +68,13 @@ Sou desenvolvedor especializado em **eletrônica, hardware, firmware, software e
 
 <p align="center">
   <a href="mailto:adeniltonribeiro.r4@gmail.com" alt="Gmail">
-    <img height="40" src="https://img.shields.io/badge/Gmail-FF0000?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+    <img height="30" src="https://img.shields.io/badge/Gmail-FF0000?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
   <a href="https://www.linkedin.com/in/adenilton-ribeiro-92551b156" alt="LinkedIn">
-    <img height="40" src="https://img.shields.io/badge/LinkedIn-0e76a8?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn"/>
+    <img height="30" src="https://img.shields.io/badge/LinkedIn-0e76a8?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://www.instagram.com/adenilton_ribeiro4" alt="Instagram">
-    <img height="40" src="https://img.shields.io/badge/Instagram-DF0174?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/>
+    <img height="30" src="https://img.shields.io/badge/Instagram-DF0174?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/>
   </a>
 </p>
 
