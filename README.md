@@ -17,7 +17,7 @@ Sou desenvolvedor especializado em **eletrônica, hardware, firmware, software e
 ## 🚀 Minhas Especialidades
 
 - **Desenvolvimento de Firmware e Software**: Programação para microcontroladores como **Arduino, AVR, STM32, STM8, PIC, ESP32, ESP8266, 8051, Nordic, Raspberry Pico**.
-- **Projeto de Hardware**: Criação de layouts de PCB utilizando ferramentas como **KiCad, Proteus, PADS PCB Design**.
+- **Projeto de Hardware**: Criação de layouts de PCB utilizando ferramentas como **KiCad, Proteus, EasyEDA, PADS PCB Design**.
 - **Conhecimento em Softwares**:
   - **MPLAB X IDE, MiKroC, Cube IDE, Arduino IDE, VS Code**.
   - **Desenvolvimento em Python, C, C++ e Go**.
