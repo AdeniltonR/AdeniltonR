@@ -3,17 +3,19 @@
     <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=4A90E2&reversal=false&fontColor=FFFFFF&animation=fadeIn&fontSize=30&fontAlignY=40&fontAlign=50"/>
 </p>
 
+<!-- Título e Saudação -->
 <h1 align="center">
     <img width="50" src="https://simpleicons.vercel.app/github/FFFFFF" />
     <br>
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=20&center=true&vCenter=true&color=FFFFFF&width=300&height=40&duration=5000&lines=Oi%2C+tudo+bem+%21;" />
 </h1>
 
-
+<!-- Apresentação -->
 # 👋 Olá, sou Adenilton Ribeiro
 
 Sou desenvolvedor especializado em **eletrônica, hardware, firmware, software e Linux embarcado**. Tenho experiência em diversas plataformas e linguagens de programação para criar soluções inovadoras e eficientes.
 
+<!-- Especialização -->
 ## 🚀 Minhas Especialidades
 
 - **Desenvolvimento de Firmware e Software**: Programação para microcontroladores como **Arduino, AVR, STM32, STM8, PIC, ESP32, ESP8266, 8051, Nordic, Raspberry Pico**.
@@ -22,6 +24,7 @@ Sou desenvolvedor especializado em **eletrônica, hardware, firmware, software e
   - **MPLAB X IDE, MiKroC, Cube IDE, Arduino IDE, VS Code**.
   - **Desenvolvimento em Python, C, C++ e Go**.
 
+<!-- Ferramentas e Tecnologias -->
 ## 🛠️ Tecnologias e Ferramentas que Uso
 
 <p align="left">
@@ -44,6 +47,7 @@ Sou desenvolvedor especializado em **eletrônica, hardware, firmware, software e
   <code><img height="30" src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"></code>
 </p>
 
+<!-- Conhecimentos em Aperfeiçoamento -->
 ## 📚 Estou Aprimorando meu Conhecimento em:
 
 <p align="left">
@@ -53,6 +57,7 @@ Sou desenvolvedor especializado em **eletrônica, hardware, firmware, software e
   <code><img height="30" src="https://img.shields.io/badge/MicroPython-2C3E50?style=for-the-badge&logo=micropython&logoColor=white"></code>
 </p>
 
+<!-- Estatísticas do GitHub -->
 ## 📊 Minhas Estatísticas no GitHub
 
 <p align="center">
@@ -60,10 +65,17 @@ Sou desenvolvedor especializado em **eletrônica, hardware, firmware, software e
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdeniltonR&theme=github-dark&hide_border=false&layout=compact"/>
 </p>
 
+<!-- Contador de Visitas -->
+<p align="center">
+  <img src="https://profile-counter.glitch.me/AdeniltonR/count.svg" alt="Contador de Visitas" style="background-color: #4A90E2; border-radius: 12px; padding: 10px; font-size: 16px; color: white;" />
+</p>
+
+<!-- Gif Centralizado -->
 <p align="center">
   <img src="https://art.pixilart.com/sr21df2b5d71d4e.gif" width="400px" alt="Gif centralizado">
 </p>
 
+<!-- Seção de Contato -->
 ## 📫 Como entrar em contato comigo
 
 <p align="center">
@@ -82,4 +94,3 @@ Sou desenvolvedor especializado em **eletrônica, hardware, firmware, software e
 <p align='center'>
     <img src="https://capsule-render.vercel.app/api?type=waving&height=130&color=4A90E2&text=Obrigado%20por%20visitar!&reversal=false&fontColor=FFFFFF&animation=fadeIn&fontSize=30&fontAlignY=40&fontAlign=50&section=footer"/>
 </p>
-
