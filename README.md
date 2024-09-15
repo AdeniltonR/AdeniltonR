@@ -11,7 +11,7 @@
 </h1>
 
 <!-- Apresentação -->
-# 👋 Olá, sou Adenilton Ribeiro
+# <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px"> Olá, sou Adenilton Ribeiro
 
 Sou desenvolvedor especializado em **eletrônica, hardware, firmware, software e Linux embarcado**. Tenho experiência em diversas plataformas e linguagens de programação para criar soluções inovadoras e eficientes.
 
