@@ -52,7 +52,7 @@ Sou desenvolvedor especializado em **eletrônica, hardware, firmware, software e
 ## 📚 Estou Aprimorando meu Conhecimento em:
 
 <p align="left">
-    <code><img height="30" src="https://img.shields.io/badge/Linux-333333?style=for-the-badge&logo=linux&logoColor=white"></code>
+    <code><img height="30" src="https://img.shields.io/badge/Linux%20Embarcado-333333?style=for-the-badge&logo=linux&logoColor=white"></code>
     <code><img height="30" src="https://img.shields.io/badge/FreeRTOS-0096D6?style=for-the-badge&logo=freertos&logoColor=white"></code>
     <code><img height="30" src="https://img.shields.io/badge/ESP--IDF-FF6600?style=for-the-badge&logo=espressif&logoColor=white"></code>
     <code><img height="30" src="https://img.shields.io/badge/MicroPython-2C3E50?style=for-the-badge&logo=micropython&logoColor=white"></code>
