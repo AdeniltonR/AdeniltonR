@@ -15,6 +15,21 @@
 
 Sou desenvolvedor especializado em **eletrônica, hardware, firmware, software e Linux embarcado**. Tenho experiência em diversas plataformas e linguagens de programação para criar soluções inovadoras e eficientes.
 
+<!-- Minhas formações -->
+## 🎓 Minhas Formações
+
+<p align="left">
+    <code><img height="30" src="https://img.shields.io/badge/Engenharia%20Mecatrônica-0096D6?style=for-the-badge&logo=graduationcap&logoColor=white"></code><br>
+    <code><img height="30" src="https://img.shields.io/badge/T%C3%A9cnico%20em%20Automação%20Industrial-0096D6?style=for-the-badge&logo=graduationcap&logoColor=white"></code><br>
+    <code><img height="30" src="https://img.shields.io/badge/T%C3%A9cnico%20em%20Mecatr%C3%B4nica-0096D6?style=for-the-badge&logo=graduationcap&logoColor=white"></code>
+</p>
+
+**Cursando:**
+
+<p align="left">
+    <code><img height="30" src="https://img.shields.io/badge/P%C3%B3s--Gradua%C3%A7%C3%A3o%20em%20Seguran%C3%A7a%20Cibern%C3%A9tica-0096D6?style=for-the-badge&logo=graduationcap&logoColor=white"></code>
+</p>
+
 <!-- Especialização -->
 ## 🚀 Minhas Especialidades
 
