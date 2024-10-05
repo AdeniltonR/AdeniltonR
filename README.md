@@ -5,9 +5,9 @@
 
 <!-- Título e Saudação -->
 <h1 align="center">
-    <img width="50" src="https://simpleicons.vercel.app/github/FFFFFF" />
+    <img width="50" src="https://simpleicons.vercel.app/github/FF0000" />
     <br>
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=20&center=true&vCenter=true&color=FFFFFF&width=300&height=40&duration=5000&lines=Oi%2C+tudo+bem+%21;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=20&center=true&vCenter=true&color=FF0000&width=300&height=40&duration=5000&lines=Oi%2C+tudo+bem+%21;" />
 </h1>
 
 <!-- Apresentação -->
@@ -108,5 +108,5 @@ Sou desenvolvedor especializado em **eletrônica, hardware, firmware, software e
 
 <!-- Rodapé -->
 <p align='center'>
-    <img src="https://capsule-render.vercel.app/api?type=waving&height=130&color=4A90E2&text=Obrigado%20por%20visitar!&reversal=false&fontColor=FFFFFF&animation=fadeIn&fontSize=30&fontAlignY=40&fontAlign=50&section=footer"/>
+    <img src="https://capsule-render.vercel.app/api?type=waving&height=130&color=4A90E2&text=Obrigado%20por%20visitar!&reversal=false&fontColor=FF0000&animation=fadeIn&fontSize=30&fontAlignY=40&fontAlign=50&section=footer"/>
 </p>
