@@ -81,6 +81,11 @@ Sou desenvolvedor especializado em **eletrônica, hardware, firmware, software e
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdeniltonR&theme=github-dark&hide_border=false&layout=compact&v=1"/>
 </p>
 
+<!-- Contador de Visitas -->
+<p align="center">
+    <img src="https://profile-counter.glitch.me/AdeniltonR/count.svg" alt="Contador de Visitas" style="background-color: #4A90E2; border-radius: 12px; padding: 10px; font-size: 16px; color: white;" />
+</p>
+
 <!-- Gif Centralizado -->
 <p align="center">
     <img src="https://art.pixilart.com/sr21df2b5d71d4e.gif" width="400px" alt="Gif centralizado">
