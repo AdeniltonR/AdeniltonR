@@ -82,9 +82,6 @@ Sou desenvolvedor especializado em **eletrônica, hardware, firmware, software e
 </p>
 
 <!-- Contador de Visitas -->
-<p align="center">
-    <img src="https://profile-counter.glitch.me/AdeniltonR/count.svg" alt="Contador de Visitas" style="background-color: #4A90E2; border-radius: 12px; padding: 10px; font-size: 16px; color: white;" />
-</p>
 
 <!-- Gif Centralizado -->
 <p align="center">
