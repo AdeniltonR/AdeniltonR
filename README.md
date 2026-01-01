@@ -74,12 +74,6 @@ Sou desenvolvedor especializado em **eletrônica, hardware, firmware, software e
 </p>
 
 <!-- Estatísticas do GitHub -->
-## 📊 Minhas Estatísticas no GitHub
-
-<p align="center">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=AdeniltonR&show_icons=true&theme=github-dark&hide_border=false&count_private=true&include_all_commits=true&hide=contribs" alt="Estatísticas GitHub" />
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdeniltonR&theme=github-dark&hide_border=false&layout=compact&v=1"/>
-</p>
 
 <!-- Contador de Visitas -->
 
