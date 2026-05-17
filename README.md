@@ -73,15 +73,6 @@ Sou desenvolvedor especializado em **eletrônica, hardware, firmware, software e
     <code><img height="30" src="https://img.shields.io/badge/Zephyr-0B5CAD?style=for-the-badge&logo=zephyr&logoColor=white"></code>
 </p>
 
-<!-- GitHub Stats -->
-## 📊 Estatísticas do GitHub
-
-<p align="center">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AdeniltonR&show_icons=true&theme=tokyonight&hide_border=true"/>
-    
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdeniltonR&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
 <!-- GitHub Streak -->
 ## 🔥 GitHub Streak
 
