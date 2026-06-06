@@ -68,7 +68,6 @@
     <img height="30" src="https://img.shields.io/badge/ESP8266-0066FF?style=for-the-badge&logo=espressif&logoColor=white">
     <img height="30" src="https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white">
     <img height="30" src="https://img.shields.io/badge/STM8-004080?style=for-the-badge&logo=stmicroelectronics&logoColor=white">
-    <img height="30" src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white">
     <img height="30" src="https://img.shields.io/badge/Raspberry%20Pico-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white">
     <img height="30" src="https://img.shields.io/badge/AVR-003F6C?style=for-the-badge&logo=atmel&logoColor=white">
     <img height="30" src="https://img.shields.io/badge/PIC-003A70?style=for-the-badge&logo=microchip&logoColor=white">
