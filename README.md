@@ -5,7 +5,7 @@
 <h1 align="center">
     <img width="40" src="https://simpleicons.vercel.app/github/4A90E2" />
     <br>
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&color=4A90E2&width=400&height=40&duration=4000&lines=Ol%C3%A1%2C+eu+sou+Adenilton+Ribeiro;Engenheiro+de+Software+%26+Hardware;Especialista+em+Sistemas+Embarcados" alt="Typing Greeting" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&color=4A90E2&width=550&height=40&duration=4000&lines=Ol%C3%A1%2C+eu+sou+Adenilton+Ribeiro;Engenheiro+Mecatr%C3%B4nico;Especialista+em+Sistemas+Embarcados" alt="Typing Greeting" />
 </h1>
 
 <p align="center">
