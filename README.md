@@ -111,4 +111,4 @@
 </p>
 
 <!-- Rodapé -->
-<img src="https://capsule-render.vercel.app/api?type=waving&height=130&color=4A90E2&text=Obrigado%20por%20visitar!&reversal=false&fontColor=4A90E2&animation=fadeIn&fontSize=30&fontAlignY=15&fontAlign=50&section=footer" width="100%"/>
+#<img src="https://capsule-render.vercel.app/api?type=waving&height=130&color=4A90E2&text=Obrigado%20por%20visitar!&reversal=false&fontColor=4A90E2&animation=fadeIn&fontSize=30&fontAlignY=15&fontAlign=50&section=footer" #width="100%"/>
