@@ -22,6 +22,19 @@
 
 <br>
 
+<!-- Contadores -->
+<p align="center">
+<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=AdeniltonR">
+</a>
+<a href="https://github.com/AdeniltonR?tab=followers"><img src="https://img.shields.io/github/followers/AdeniltonR?label=Followers&style=social" alt="GitHub Badge"></a>
+</p>
+
+</div>
+
+---
+
+<!-- Formação Acadêmica -->
 ### 🎓 Formação Acadêmica
 
 <p align="center">
@@ -36,6 +49,9 @@
 
 <br>
 
+---
+
+<!-- Especialidades -->
 ### 🚀 Especialidades
 
 - **Desenvolvimento de Firmware e Software:** programação para microcontroladores como Arduino, AVR, STM32, STM8, PIC, ESP32, ESP8266, 8051, Nordic e Raspberry Pico.
@@ -45,6 +61,9 @@
 
 <br>
 
+---
+
+<!-- Tecnologias e Ferramentas -->
 ### 🛠️ Tecnologias e Ferramentas
 
 <p align="center"><b>Linguagens</b></p>
@@ -86,6 +105,9 @@
 
 <br>
 
+---
+
+<!-- Aprimorando Conhecimentos -->
 ### 📚 Aprimorando Conhecimentos
 
 <p align="center">
@@ -95,20 +117,33 @@
 
 <br>
 
+---
+
+<!-- GitHub Stats -->
 ### 📈 GitHub Stats
 
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=AdeniltonR&theme=dark&hide_border=false&ring_color=87CEEB&title_color=4B9CD3&text_color=87CEEB&include_all_commits=false&count_private=false"
+             width="100%" style="display:block; margin:0;" alt="GitHub Stats"/>
+      <br/>
+      <img width="100%" height="195" src="https://github-readme-streak-stats.herokuapp.com/?user=AdeniltonR&theme=dark&hide_border=true&background=0D1117&stroke=0000&ring=00D4FF&fire=00D4FF&currStreakLabel=00D4FF" style="display:block; margin:0;"/>
+      <br/>
+      <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AdeniltonR&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact"
+             width="100%" style="display:block; margin:0;" alt="Top Languages"/>
+    </td>
+    <td width="50%" valign="center">
+      <img src="https://art.pixilart.com/sr21df2b5d71d4e.gif" width="100%" alt="Gif centralizado" />
+    </td>
+  </tr>
+</table>
+
 <div align="center">
-    <img src="https://streak-stats.demolab.com?user=AdeniltonR&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-    <br><br>
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=AdeniltonR&theme=tokyo-night&hide_border=true" width="100%" alt="Activity Graph" />
 </div>
 
-<br>
-
-<!-- Gif Centralizado -->
-<p align="center">
-    <img src="https://art.pixilart.com/sr21df2b5d71d4e.gif" width="400px" alt="Gif centralizado">
-</p>
+---
 
 <!-- Rodapé -->
 <img src="https://capsule-render.vercel.app/api?type=waving&height=130&color=4A90E2&text=Obrigado%20por%20visitar!&reversal=false&fontColor=4A90E2&animation=fadeIn&fontSize=30&fontAlignY=15&fontAlign=50&section=footer" width="100%"/>
