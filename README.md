@@ -1,4 +1,4 @@
-
+<!-- Header -->
 <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=4A90E2&reversal=false&fontColor=FFFFFF&animation=fadeIn" width="100%"/>
 
 <!-- Título e Saudação -->
