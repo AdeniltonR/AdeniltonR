@@ -158,7 +158,13 @@
 </table>
 
 <div align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=AdeniltonR&theme=tokyo-night&hide_border=true" width="100%" alt="Activity Graph" />
+    <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+        <img 
+            src="https://fabianocouto-activity-graph.vercel.app/graph/?username=AdeniltonR&theme=react-dark&hide_border=true&bg_color=0D1117&color=00D4FF&line=00D4FF&point=FF6B6B" 
+            width="100%" 
+            alt="Adenilton's GitHub Activity Graph" 
+        />
+    </a>
 </div>
 
 ---
