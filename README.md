@@ -51,18 +51,6 @@
 
 ---
 
-<!-- Especialidades -->
-### 🚀 Especialidades
-
-- **Desenvolvimento de Firmware e Software:** programação para microcontroladores como Arduino, AVR, STM32, STM8, PIC, ESP32, ESP8266, 8051, Nordic e Raspberry Pico.
-- **Projeto de Hardware:** criação de layouts de PCB com KiCad, Proteus, EasyEDA e PADS PCB Design.
-- **Ferramentas de Desenvolvimento:** MPLAB X IDE, MikroC, STM32CubeIDE, Arduino IDE, VS Code.
-- **Linguagens de Programação:** Python, C, C++ e Go.
-
-<br>
-
----
-
 <!-- Tecnologias e Ferramentas -->
 ### 🛠️ Tecnologias e Ferramentas
 
@@ -72,6 +60,34 @@
     <img height="30" src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
     <img height="30" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
     <img height="30" src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white">
+</p>
+
+<p align="center"><b>Bare-metal & RTOS</b></p>
+<p align="center">
+    <img height="30" src="https://img.shields.io/badge/Bare--metal-808080?style=for-the-badge">
+    <img height="30" src="https://img.shields.io/badge/RTOS-0096D6?style=for-the-badge">
+    <img height="30" src="https://img.shields.io/badge/FreeRTOS-0096D6?style=for-the-badge&logo=freertos&logoColor=white">
+    <img height="30" src="https://img.shields.io/badge/Zephyr-0B5CAD?style=for-the-badge&logo=zephyr&logoColor=white">
+</p>
+
+<p align="center"><b>Ferramentas de Desenvolvimento</b></p>
+<p align="center">
+    <!-- ESP32 / ESP8266 -->
+    <img height="30" src="https://img.shields.io/badge/Arduino%20IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white"> <img height="30" src="https://img.shields.io/badge/ESP--IDF-E7352C?style=for-the-badge&logo=espressif&logoColor=white">
+    <!-- Visual Studio Code -->
+    <img height="30" src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white">
+    <!-- STM32 / STM8 -->
+    <img height="30" src="https://img.shields.io/badge/STM32CubeIDE-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white"> <img height="30" src="https://img.shields.io/badge/STM32CubeMX-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white"> <img height="30" src="https://img.shields.io/badge/STM8CubeMX-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white">
+    <!-- AVR -->
+    <img height="30" src="https://img.shields.io/badge/Microchip%20Studio-EE1C25?style=for-the-badge&logo=microchip&logoColor=white">
+    <!-- PIC -->
+    <img height="30" src="https://img.shields.io/badge/MPLAB%20X%20IDE-EE1C25?style=for-the-badge&logo=microchip&logoColor=white"> <img height="30" src="https://img.shields.io/badge/MikroC%20PIC-00599C?style=for-the-badge">
+    <!-- 8051 -->
+    <img height="30" src="https://img.shields.io/badge/MikroC%208051-00599C?style=for-the-badge">
+    <!-- Nordic -->
+    <img height="30" src="https://img.shields.io/badge/nRF%20Connect-00A9CE?style=for-the-badge&logo=nordicsemiconductor&logoColor=white">
+    <!-- PSoC -->
+    <img height="30" src="https://img.shields.io/badge/PSoC™%20Creator-003D7C?style=for-the-badge&logo=infineon&logoColor=white">
 </p>
 
 <p align="center"><b>Microcontroladores</b></p>
@@ -85,6 +101,16 @@
     <img height="30" src="https://img.shields.io/badge/PIC-003A70?style=for-the-badge&logo=microchip&logoColor=white">
     <img height="30" src="https://img.shields.io/badge/8051-00599C?style=for-the-badge">
     <img height="30" src="https://img.shields.io/badge/Nordic-003B5C?style=for-the-badge&logo=nordicsemiconductor&logoColor=white">
+    <img height="30" src="https://img.shields.io/badge/PSoC™%20MCUs-003D7C?style=for-the-badge&logo=infineon&logoColor=white">
+</p>
+
+<p align="center"><b>Microcomputadores (SBCs)</b></p>
+<p align="center">
+    <img height="30" src="https://img.shields.io/badge/Raspberry%20Pi%20Zero-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white">
+    <img height="30" src="https://img.shields.io/badge/Raspberry%20Pi%203-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white">
+    <img height="30" src="https://img.shields.io/badge/Raspberry%20Pi%204-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white">
+    <img height="30" src="https://img.shields.io/badge/Radxa-FF6600?style=for-the-badge&logoColor=white">
+    <img height="30" src="https://img.shields.io/badge/Orange%20Pi%20Zero%203-FF6600?style=for-the-badge&logoColor=white">
 </p>
 
 <p align="center"><b>Design de Hardware (PCB)</b></p>
@@ -93,14 +119,6 @@
     <img height="30" src="https://img.shields.io/badge/Proteus-0075A8?style=for-the-badge">
     <img height="30" src="https://img.shields.io/badge/PADS%20PCB%20Design-005495?style=for-the-badge">
     <img height="30" src="https://img.shields.io/badge/EasyEDA-00A4E6?style=for-the-badge&logo=easyeda&logoColor=white">
-</p>
-
-<p align="center"><b>Bare-metal & RTOS</b></p>
-<p align="center">
-    <img height="30" src="https://img.shields.io/badge/Bare--metal-808080?style=for-the-badge">
-    <img height="30" src="https://img.shields.io/badge/RTOS-0096D6?style=for-the-badge">
-    <img height="30" src="https://img.shields.io/badge/FreeRTOS-0096D6?style=for-the-badge&logo=freertos&logoColor=white">
-    <img height="30" src="https://img.shields.io/badge/Zephyr-0B5CAD?style=for-the-badge&logo=zephyr&logoColor=white">
 </p>
 
 <br>
