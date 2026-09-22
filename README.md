@@ -38,13 +38,10 @@
 ### 🎓 Formação Acadêmica
 
 <p align="center">
+    <img height="30" src="https://img.shields.io/badge/Pós--Graduação%20em%20Segurança%20Cibernética-0096D6?style=for-the-badge&logo=graduationcap&logoColor=white">
     <img height="30" src="https://img.shields.io/badge/Engenharia%20Mecatrônica-0096D6?style=for-the-badge&logo=graduationcap&logoColor=white">
     <img height="30" src="https://img.shields.io/badge/Técnico%20em%20Automação%20Industrial-0096D6?style=for-the-badge&logo=graduationcap&logoColor=white">
     <img height="30" src="https://img.shields.io/badge/Técnico%20em%20Mecatrônica-0096D6?style=for-the-badge&logo=graduationcap&logoColor=white">
-</p>
-<p align="center">
-    <b>Cursando:</b><br>
-    <img height="30" src="https://img.shields.io/badge/Pós--Graduação%20em%20Segurança%20Cibernética-0096D6?style=for-the-badge&logo=graduationcap&logoColor=white">
 </p>
 
 <br>
