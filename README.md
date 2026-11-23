@@ -62,14 +62,14 @@ int main(void) {
 
 ```text
 ┌──────────────────────────────────────────────────────┐
-│  PLAYER: ADENILTON          CLASS: EMBEDDED ENGINEER  │
+│  PLAYER: ADENILTON          CLASS: EMBEDDED ENGINEER │
 ├──────────────────────────────────────────────────────┤
-│  HARDWARE / PCB    [████████████████████]  MAX        │
-│  FIRMWARE C/C++    [██████████████████░░]             │
-│  MICROCONTROLLERS  [██████████████████░░]             │
-│  RTOS              [████████████████░░░░]             │
-│  LINUX EMBARCADO   [████████████████░░░░]  ▲ LVL UP   │
-│  FPGA              [████████░░░░░░░░░░░░]  ▲ LVL UP   │
+│  HARDWARE / PCB    [████████████████████]  MAX       │
+│  FIRMWARE C/C++    [██████████████████░░]            │
+│  MICROCONTROLLERS  [██████████████████░░]            │
+│  RTOS              [████████████████░░░░]            │
+│  LINUX EMBARCADO   [████████████████░░░░]  ▲ LVL UP  │
+│  FPGA              [████████░░░░░░░░░░░░]  ▲ LVL UP  │
 └──────────────────────────────────────────────────────┘
 ```
 
