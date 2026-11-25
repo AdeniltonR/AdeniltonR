@@ -98,8 +98,7 @@ int main(void) {
 <tr>
 <td><b>🔌 MICROCONTROLADORES</b></td>
 <td>
-  <img src="https://img.shields.io/badge/ESP32-000000?style=flat-square&logo=espressif&logoColor=00FF41" height="24"/>
-  <img src="https://img.shields.io/badge/ESP8266-000000?style=flat-square&logo=espressif&logoColor=00FF41" height="24"/>
+  <img src="https://img.shields.io/badge/Espressif-000000?style=flat-square&logo=espressif&logoColor=00FF41" height="24"/>
   <img src="https://img.shields.io/badge/STM32-000000?style=flat-square&logo=stmicroelectronics&logoColor=00FF41" height="24"/>
   <img src="https://img.shields.io/badge/STM8-000000?style=flat-square&logo=stmicroelectronics&logoColor=00FF41" height="24"/>
   <img src="https://img.shields.io/badge/NORDIC-000000?style=flat-square&logo=nordicsemiconductor&logoColor=00FF41" height="24"/>
